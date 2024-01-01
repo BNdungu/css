@@ -1,3 +1,25 @@
-p {
-    color: blue
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Kanit&display=swap');
+
+body {
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    background-color: white;
+    color: black
+}
+
+.article {
+    font-family: 'Kanit', sans-serif;
+}
+
+.article1 {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+a {
+    color: blueviolet
+}
+
+a:visited {
+    color: yellow
 }
